@@ -10,6 +10,7 @@ class PoemsController < ApplicationController
   # GET /poems/1
   # GET /poems/1.json
   def show
+
   end
 
   # GET /poems/new
